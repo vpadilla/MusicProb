@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml><head><score>CDEFGABcdefgab</score><startPoint>0</startPoint><mutationProb>0</mutationProb><distributionProbType>Uniforme</distributionProbType></head><end><score>bagfedcBAGFEDC</score><startPoint>0</startPoint><mutationProb>0</mutationProb><distributionProbType>Uniforme</distributionProbType></end></xml>
